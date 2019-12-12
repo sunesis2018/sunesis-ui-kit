@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84d74116-1912-48c1-8f3b-57c3c22ce9be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +75,9 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1089" />
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -166,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/components/navigations/NavigationBar.js" />
         <option value="$PROJECT_DIR$/src/components/landingpage/ImageGallery.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -320,12 +322,12 @@
       <workItem from="1576056220742" duration="10000" />
       <workItem from="1576071233072" duration="603000" />
       <workItem from="1576133918193" duration="184000" />
-      <workItem from="1576146412541" duration="774000" />
+      <workItem from="1576146412541" duration="1095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48634000" />
+    <option name="totallyTimeSpent" value="48955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -681,7 +683,9 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1089" />
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
